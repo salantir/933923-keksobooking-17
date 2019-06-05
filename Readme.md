@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Олейников](https://up.htmlacademy.ru/javascript/17/user/933923).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Лебедев](https://htmlacademy.ru/profile/id51265).
 
 ---
 
